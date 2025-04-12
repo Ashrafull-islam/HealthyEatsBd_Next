@@ -1,8 +1,7 @@
-
-
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./components/BootstrapSetup";
 import "../public/assets/css/style.css";
 import "../public/assets/css/main.css";
 import "../public/assets/css/responsive.css";

@@ -61,7 +61,7 @@ export default function page() {
             <button
               type="button"
               className="password-toggle"
-              onclick="togglePassword()"
+              
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"

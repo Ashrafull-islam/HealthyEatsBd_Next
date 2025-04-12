@@ -1,4 +1,3 @@
-
 // import SwiperCard from '@/app/components/SwiperCard';
 import Image from 'next/image';
 import Link from 'next/link';

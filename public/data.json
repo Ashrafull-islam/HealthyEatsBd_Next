@@ -1,3 +1,82 @@
 [
-  
+  {
+    "id": 1,
+    "title": "Chocolate Peanut Butter",
+    "subtitle": "চকলেট পিনাট বাটার",
+    "priceRange": "৳ 520 - ৳ 960",
+    "badge": "-8%",
+    "image": "assets/media/home/card-section/card1.png"
+  },
+  {
+    "id": 2,
+    "title": "Bilona Ghee",
+    "subtitle": "বিলোনা ঘি",
+    "priceRange": "৳ 800 - ৳ 1,550",
+    "badge": "-11%",
+    "image": "assets/media/home/card-section/card2.png"
+  },
+  {
+    "id": 3,
+    "title": "Sugarcane Jaggery Powder",
+    "subtitle": "আখের গুড় পাউডার",
+    "priceRange": "৳ 400 - ৳ 1,000",
+    "badge": "New",
+    "image": "assets/media/home/card-section/card3.png"
+  },
+  {
+    "id": 4,
+    "title": "Natural Honey",
+    "subtitle": "প্রাকৃতিক মধু",
+    "priceRange": "৳ 300 - ৳ 900",
+    "badge": "-15%",
+    "image": "assets/media/home/card-section/card4.png"
+  },
+  {
+    "id": 5,
+    "title": "Organic Chia Seeds",
+    "subtitle": "অরগানিক চিয়া বীজ",
+    "priceRange": "৳ 250 - ৳ 650",
+    "badge": "New",
+    "image": "assets/media/home/card-section/card5.png"
+  },
+  {
+    "id": 6,
+    "title": "Premium Dates",
+    "subtitle": "প্রীমিয়াম খেজুর",
+    "priceRange": "৳ 600 - ৳ 1,200",
+    "badge": "-10%",
+    "image": "assets/media/home/card-section/card1.png"
+  },
+  {
+    "id": 7,
+    "title": "Herbal Amla Juice",
+    "subtitle": "হারবাল আমলা জুস",
+    "priceRange": "৳ 350 - ৳ 750",
+    "badge": "-5%",
+    "image": "assets/media/home/card-section/card2.png"
+  },
+  {
+    "id": 8,
+    "title": "Pure Coconut Oil",
+    "subtitle": "খাঁটি নারকেল তেল",
+    "priceRange": "৳ 200 - ৳ 600",
+    "badge": "New",
+    "image": "assets/media/home/card-section/card3.png"
+  },
+  {
+    "id": 9,
+    "title": "Organic Turmeric Powder",
+    "subtitle": "অরগানিক হলুদ গুঁড়া",
+    "priceRange": "৳ 180 - ৳ 500",
+    "badge": "-12%",
+    "image": "assets/media/home/card-section/card5.png"
+  },
+  {
+    "id": 10,
+    "title": "Cold Pressed Mustard Oil",
+    "subtitle": "ঠান্ডা প্রেসড সরিষার তেল",
+    "priceRange": "৳ 400 - ৳ 1,000",
+    "badge": "-9%",
+    "image": "assets/media/home/card-section/card4.png"
+  }
 ]
