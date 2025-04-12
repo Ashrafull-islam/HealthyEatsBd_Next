@@ -193,9 +193,9 @@ export default async function Page({ params }) {
             <button>+</button>
           </div>
           <button className="btn btn-cart me-2">ADD TO CART</button>
-          <a href="/checkout.html" className="btn btn-buy text-decoration-none">
+          <Link href={`/checkouts/${Products.id}`} className="btn btn-buy text-decoration-none">
             BUY NOW
-          </a>
+          </Link>
         </div>
         <a
           href="#"
